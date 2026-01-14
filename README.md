@@ -20,10 +20,6 @@ I'm a B.Tech CSE student. Right now, I am completely focused on **learning Pytho
 
 ### 📊 My Coding Activity
 <p align="left">
-<a href="https://github.com/akshitchibber11-work">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshitchibber11-work&show_icons=true&theme=tokyonight&hide_border=true" alt="Akshit's GitHub Stats" />
-</a>
-<a href="https://github.com/akshitchibber11-work">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshitchibber11-work&theme=tokyonight&hide_border=true" alt="Akshit's Streak" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=akshitchibber11-work&show_icons=true&theme=tokyonight&hide_border=true" alt="Akshit's GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshitchibber11-work&theme=tokyonight&hide_border=true" alt="Akshit's Streak" height="150" />
 </p>
