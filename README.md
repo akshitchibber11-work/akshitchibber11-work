@@ -2,7 +2,7 @@
 
 I'm a B.Tech CSE student. Right now, I am completely focused on **learning Python** and building my programming logic.
 
-- 🔭 **Currently working on:** Learning Python 🐍
+- 🔭 **Currently working on:** Learning Python 🐍, C and building web projects!
 - 🌱 **Current Challenge:** Coding every single day (100 Days of Code)
 - ⚡ **Goal:** Consistency and improvement
 
